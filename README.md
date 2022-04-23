@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @stef7773
-- 👀 I’m interested in Github copilot
-- 🌱 I’m currently learning Kde 
+- 👀 I’m interested in AI
 - 💞️ I’m looking to collaborate in Languages (french, spanish, english and italian)
 - 📫 How to reach me +593982630024
 
